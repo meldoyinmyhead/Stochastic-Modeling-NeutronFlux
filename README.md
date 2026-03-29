@@ -63,9 +63,9 @@ neutron-flux-timeseries/
 │
 ├── Neutron_Flux_TimeSeries.ipynb   # Main analysis notebook (R kernel)
 │
-├── data/
-│   ├── oulu_raw2.txt               # Oulu neutron monitor raw data
-│   └── SN_m_tot_V2.0.csv          # SIDC international sunspot number
+├──oulu_raw2.txt               # Oulu neutron monitor raw data
+│           
+├──SN_m_tot_V2.0.csv          # SIDC international sunspot number
 │
 └── README.md                       # This file
 ```
