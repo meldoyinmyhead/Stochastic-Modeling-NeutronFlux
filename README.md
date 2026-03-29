@@ -1,4 +1,3 @@
-# Stochastic-Modeling-NeutronFlux
 # Stochastic Time Series Analysis of Galactic Cosmic Ray Intensity
 ### Radiation Hazard Forecasting for the Alcomsat-1 Satellite Mission
 
